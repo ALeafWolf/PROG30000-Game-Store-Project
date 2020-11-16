@@ -1,0 +1,37 @@
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\appsettings.json
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.exe
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.deps.json
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.runtimeconfig.json
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.runtimeconfig.dev.json
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.dll
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.pdb
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.Views.dll
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\bin\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.Views.pdb
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.csprojAssemblyReference.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.AssemblyInfoInputs.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.AssemblyInfo.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.csproj.CoreCompileInputs.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.RazorAssemblyInfo.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.RazorAssemblyInfo.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.TagHelpers.input.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.TagHelpers.output.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.RazorCoreGenerate.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.RazorTargetAssemblyInfo.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.RazorTargetAssemblyInfo.cs
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.Views.pdb
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\staticwebassets\Team WASD - Game Store Stock Management System.StaticWebAssets.Manifest.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\staticwebassets\Team WASD - Game Store Stock Management System.StaticWebAssets.xml
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.dll
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.pdb
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.genruntimeconfig.cache
+D:\HW\t5\.NET\Project\Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System\obj\Debug\netcoreapp3.1\Team WASD - Game Store Stock Management System.csproj.CopyComplete
