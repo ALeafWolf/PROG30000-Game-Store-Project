@@ -18,12 +18,39 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public ViewResult Index()
+        {
+            return View("Welcome");
+        }
+
+        public ViewResult GameList()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        [HttpGet]
+        public ViewResult SearchGame()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ViewResult SearchGame(string result)
+        {
+            return View();
+        }
+
+        public ViewResult GameDetails()
+        {
+            return View();
+        }
+
+        public ViewResult EditGameDetails()
+        {
+            return View();
+        }
+
+        /*public IActionResult Privacy()
         {
             return View();
         }
@@ -32,6 +59,6 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+        }*/
     }
 }

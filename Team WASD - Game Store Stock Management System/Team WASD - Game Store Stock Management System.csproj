@@ -5,4 +5,8 @@
     <RootNamespace>Team_WASD___Game_Store_Stock_Management_System</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
 </Project>
