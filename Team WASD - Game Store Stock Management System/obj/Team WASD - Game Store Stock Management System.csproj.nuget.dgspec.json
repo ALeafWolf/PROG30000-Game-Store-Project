@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HW\\t5\\.NET\\Project\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System.csproj": {}
+    "C:\\SheridanProjects\\ESS\\PROG30000-Game-Store-Project\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System.csproj": {}
   },
   "projects": {
-    "D:\\HW\\t5\\.NET\\Project\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System.csproj": {
+    "C:\\SheridanProjects\\ESS\\PROG30000-Game-Store-Project\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HW\\t5\\.NET\\Project\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System.csproj",
+        "projectUniqueName": "C:\\SheridanProjects\\ESS\\PROG30000-Game-Store-Project\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System.csproj",
         "projectName": "Team WASD - Game Store Stock Management System",
-        "projectPath": "D:\\HW\\t5\\.NET\\Project\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System.csproj",
-        "packagesPath": "C:\\Users\\lucek\\.nuget\\packages\\",
-        "outputPath": "D:\\HW\\t5\\.NET\\Project\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System\\obj\\",
+        "projectPath": "C:\\SheridanProjects\\ESS\\PROG30000-Game-Store-Project\\Team WASD - Game Store Stock Management System\\Team WASD - Game Store Stock Management System.csproj",
+        "packagesPath": "C:\\Users\\weibi\\.nuget\\packages\\",
+        "outputPath": "C:\\SheridanProjects\\ESS\\PROG30000-Game-Store-Project\\Team WASD - Game Store Stock Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\weibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,7 +38,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.4, )"
@@ -61,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
