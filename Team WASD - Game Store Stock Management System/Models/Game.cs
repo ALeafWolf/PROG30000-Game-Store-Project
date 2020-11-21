@@ -13,6 +13,7 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Models
         [Key]
         public int Id { get; set; }
         public string Tite { get; set; }
+        public DateTime ReleaseDate { get; set; }
         public Publisher Publisher { get; set; }
         public Developer Developer { get; set; }
 
