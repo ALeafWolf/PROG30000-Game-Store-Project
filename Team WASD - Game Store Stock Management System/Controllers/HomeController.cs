@@ -54,7 +54,6 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Controllers
         {
             return View();
         }
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
