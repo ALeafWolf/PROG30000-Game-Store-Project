@@ -16,6 +16,15 @@
                 @Html.DisplayNameFor(model => model.Title)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.Publisher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Developer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Platform)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.ReleaseDate)
             </th>
             <th>
@@ -35,6 +44,15 @@
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publisher.PublisherName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Developer.DeveloperId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Platform.PlatformName)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.ReleaseDate)
