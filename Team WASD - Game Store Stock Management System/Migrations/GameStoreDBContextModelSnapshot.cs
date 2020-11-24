@@ -50,6 +50,9 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Migrations
                     b.Property<int?>("GenreId")
                         .HasColumnType("int");
 
+                    b.Property<int?>("ImageId")
+                        .HasColumnType("int");
+
                     b.Property<int>("InStockAmount")
                         .HasColumnType("int");
 
@@ -65,7 +68,7 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Migrations
                     b.Property<DateTime>("ReleaseDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Tite")
+                    b.Property<string>("Title")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -73,6 +76,8 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Migrations
                     b.HasIndex("DeveloperId");
 
                     b.HasIndex("GenreId");
+
+                    b.HasIndex("ImageId");
 
                     b.HasIndex("PlatformId");
 
@@ -94,6 +99,24 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Migrations
                     b.HasKey("GenreId");
 
                     b.ToTable("tblGenre");
+                });
+
+            modelBuilder.Entity("Team_WASD___Game_Store_Stock_Management_System.Models.Image", b =>
+                {
+                    b.Property<int>("ImageId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<byte[]>("ImageData")
+                        .HasColumnType("varbinary(max)");
+
+                    b.Property<string>("ImageTitle")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ImageId");
+
+                    b.ToTable("tblImage");
                 });
 
             modelBuilder.Entity("Team_WASD___Game_Store_Stock_Management_System.Models.Platform", b =>
@@ -135,6 +158,10 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Migrations
                     b.HasOne("Team_WASD___Game_Store_Stock_Management_System.Models.Genre", "Genre")
                         .WithMany()
                         .HasForeignKey("GenreId");
+
+                    b.HasOne("Team_WASD___Game_Store_Stock_Management_System.Models.Image", "Image")
+                        .WithMany()
+                        .HasForeignKey("ImageId");
 
                     b.HasOne("Team_WASD___Game_Store_Stock_Management_System.Models.Platform", "Platform")
                         .WithMany()

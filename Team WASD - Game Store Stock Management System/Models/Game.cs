@@ -23,5 +23,7 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Models
         public double Price { get; set; }
         public string Description { get; set; }
         public int InStockAmount { get; set; }
+
+        public Image Image { get; set; }
     }
 }

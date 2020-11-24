@@ -20,8 +20,8 @@ namespace Team_WASD___Game_Store_Stock_Management_System.Models
 
         public DbSet<Platform> Platform { get; set; }
 
-   
 
+        public DbSet<Image> Images { get; set; }
 
 
     }
